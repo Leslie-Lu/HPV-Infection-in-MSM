@@ -1,13 +1,11 @@
-# Prevalence, Incidence, and Clearance of Anal Human Papillomavirus among HIV-Negative and HIV-Positive Men Who Have Sex With Men in China: An Observational Cohort Study
+# HPV-Infection-in-MSM
 
-## :writing\_hand: Authors
+## 📖 Citation
 
-Tian Tian and [Zhen Lu](https://leslie-lu.github.io/)
+Tian, T., Lu, Z., He, J., Fu, L., Yu, W., Zhang, Z., Chen, Z., Zou, H., & Dai, J. (2025). [Heterogeneity in Prevalence, Incidence, and Clearance of Anal Human Papillomavirus Among HIV-Negative and HIV-Positive Men Who Have Sex with Men in China: An Observational Cohort Study](https://doi.org/10.3390/vaccines13111144). Vaccines, 13(11). 
 
-If you use the code in this repository for your own research, please cite the paper:
+Please cite the paper and give us a STAR if you find this repository useful for your research.
 
-Tian Tian, Zhen Lu, et al. Prevalence, Incidence, and Clearance of Anal Human Papillomavirus among HIV-Negative and HIV-Positive
-
-## :sparkling\_heart: Contributing
+## 💖 Contributing
 
 We welcome any contributions\!
